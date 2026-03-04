@@ -68,4 +68,4 @@ The paths should end with \Anaconda3, \Anaconda3\Library\bin, and \Anaconda3\Scr
 
 4. Open a .ipynb file and choose the kernel.
 
-![img](Jupyter_Image\14.png)
+![img](Jupyter_Image/14.png)
