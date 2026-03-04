@@ -9,3 +9,17 @@ Don't worry, in this workshop, we won't play with some syntax and functions that
 ## Part 2 : Python OOP Tutorial -- Object-Oriented Programming
 
 Object-Oriented Programming is the programming style. It views the components of a project as objects (instances of classes) that have attributes and methods. Generally, Python, java and C++ are commonly used with OOP (not always as they also support functional programming FP) We will learn about the features of OOP in Python -- encapsulation, inheritance and polymorphism
+
+## Part 3 : Python Libraries -- Numpy, Pandas and Matplotlib
+
+Libraries are powerful tools to add more functions and abilities for Python, in this section, we will focus on three libraries: numpy, pandas and matplotlib.
+
+NumPy (Numerical Python) is the foundational library for scientific computing, providing powerful multi-dimensional arrays and fast vectorized operations for linear algebra, random number generation, and complex mathematical computations.
+
+Pandas builds on NumPy to offer intuitive data structures like DataFrame (2D tables) and Series, making data cleaning, filtering, grouping, and importing/exporting files (CSV, Excel, JSON) as easy as working in Excel or SQL.
+
+Matplotlib is the original plotting library, giving you complete control to create publication-quality visualizations from simple line plots to complex charts. Together, these three libraries form the essential toolkit for Python data science.
+
+## Part 4 : Python Project -- Let's Build a Game
+
+As you have study Python so far, you may wander, "What can I do with Python to make something fun?" So, let's build a game. It's not crazy. You can definitely make an interesting game right now. Just go for it!
