@@ -112,4 +112,4 @@ code .
 
 Now configure your VS Code
 
-***See [vscode_setup](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/share/vscode_setup) inside the share folder***
+***See [vscode_setup](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/share/vscode_setup.md) inside the share folder***

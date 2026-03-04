@@ -7,5 +7,5 @@ The platform independent documents will be inside the [share](https://github.com
 The platform dependent documents like how to install Python will be within the [platform](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/platform) folder, please check the following common platforms:
 
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/platform/windows)
-[![Unix](https://img.shields.io/badge/-Linux/BSD-red.svg?style=for-the-badge&logo=linux)](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/platform/linux)
-[![MacOS](https://img.shields.io/badge/-MacOS-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/platform/macos)
+[![Unix](https://img.shields.io/badge/-Linux/BSD-red.svg?style=for-the-badge&logo=linux)](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/platform/linux/linux_environment_setup.md)
+[![MacOS](https://img.shields.io/badge/-MacOS-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/platform/macos/macos_environment_setup.md)
