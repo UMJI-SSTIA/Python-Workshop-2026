@@ -2,7 +2,7 @@
 
 Just in case someone don't use google colab (maybe there is someone who hates google), here we will discuss about how to setup Python and Jupyter environment locally.
 
-The platform independent documents will be inside the [share](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/platform) folder, things like how to run jupyter inside Visual Studio Code will be here.
+The platform independent documents will be inside the [share](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/share) folder, things like how to run jupyter inside Visual Studio Code will be here.
 
 The platform dependent documents like how to install Python will be within the [platform](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/platform) folder, please check the following common platforms:
 
