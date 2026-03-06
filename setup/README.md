@@ -1,6 +1,6 @@
 # Python Local Environment Setup
 
-Just in case someone don't use google colab (maybe there is someone who hates google), here we will discuss about how to setup Python and Jupyter environment locally.
+Just in case someone doesn't want to use google colab (maybe there is someone who hates google), here we will discuss about how to setup Python and Jupyter environment locally.
 
 The platform independent documents will be inside the [share](https://github.com/UMJI-SSTIA/Python-Workshop-2026/tree/main/setup/share) folder, things like how to run jupyter inside Visual Studio Code will be here.
 

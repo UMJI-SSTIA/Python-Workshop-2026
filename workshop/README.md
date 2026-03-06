@@ -22,4 +22,4 @@ Matplotlib is the original plotting library, giving you complete control to crea
 
 ## Part 4 : Python Project -- Let's Build a Game
 
-As you have study Python so far, you may wander, "What can I do with Python to make something fun?" So, let's build a game. It's not crazy. You can definitely make an interesting game right now. Just go for it!
+As you have studied a lot of Python so far, you may wander, "What can I do with Python to make something fun?" So, let's build a game. It's not crazy. You can definitely make an interesting game right now. Just go for it!
